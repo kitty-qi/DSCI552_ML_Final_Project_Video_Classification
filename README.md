@@ -1,6 +1,6 @@
 # DSCI552 Machine Learning for Data Science Final Project
 
-Transfer Learning for Video Classification
+Project goal: Transfer Learning for Video Classification <br>
 
-data folder: images and videos data 
-notebook folder: codes, models, class labels
+data folder: images and videos data <br>
+notebook folder: codes, models, class labels <br>
